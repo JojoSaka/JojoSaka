@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JojoSaka
-- 👀 I’m interested in anything data and that is data science and data emgineering.
+- 👀 I’m interested in anything data and that is data science and data analysis.
 - 🌱 I’m currently learning data science and Front-End web development
 - 💞️ I’m looking to collaborate on projects which require skills on web development and data science or analysis
 - 📫 How to reach me: BY Email: sakajojo8@gmail.com
