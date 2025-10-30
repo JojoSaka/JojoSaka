@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 
 I’m a **Software Engineer from Ghana** passionate about building **scalable, secure, and high-performing applications**.  
-With 3+ years of experience across **React, Next.js, Node.js, PostgreSQL, and Tailwind CSS**, I’m now mastering **Java and the Spring Framework** to strengthen my backend expertise and become a well-rounded engineer.
+With 3+ years of experience across **Typescript, React, Next.js, Node.js, Relational and Non-Relational Databases, and Tailwind CSS**, I’m now mastering **Java and the Spring Framework** to strengthen my backend expertise and become a well-rounded engineer.
 
 Beyond coding, I’m committed to mastering **problem-solving** and **system thinking** — sharpening my analytical and architectural mindset daily.
 
