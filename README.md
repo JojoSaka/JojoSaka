@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Kwadwo Ofosu Saka-Yeboah</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | Java & Spring Enthusiast</h3>
+<h3 align="center">Software Engineer | Java & Spring Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:sakajojo8@gmail.com"><img src="https://img.shields.io/badge/Email-sakajojo8%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
