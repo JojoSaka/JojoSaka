@@ -12,15 +12,14 @@
 ## 👨‍💻 About Me
 
 I’m a **Software Engineer from Ghana** passionate about building **scalable, secure, and high-performing applications**.  
-With 3+ years of experience across **Typescript, React, Next.js, Node.js, Relational and Non-Relational Databases, and Tailwind CSS**, I’m now mastering **Java and the Spring Framework** to strengthen my backend expertise and become a well-rounded engineer.
+With 3+ years of experience across **Typescript, Next.js, Node.js, Relational and Non-Relational Databases, Java and the Spring Framework, System Design, AWS and GCP cloud platoforms.**.
 
 Beyond coding, I’m committed to mastering **problem-solving** and **system thinking** — sharpening my analytical and architectural mindset daily.
-
-- 🔭 **Currently Working On:** DonateNow Fundraising Platform  
-- 🌱 **Learning:** Java, Spring Boot, Microservices, and distributed systems  
+.
+- 🌱 **Working with:** Java, Spring Boot, Microservices,Typescript, AWS, GCP and distributed systems  
 - 💪 **Problem-Solving Practice:** Regularly solving **LeetCode** and **HackerRank** problems to improve algorithmic thinking and data structure fluency  
 - 🧠 **Studying System Design:** Deeply exploring design trade-offs — *why certain architectural choices are made and how they impact scalability, reliability, and performance*  
-- 💬 **Ask Me About:** Front-end development, API design, authentication, testing, and scaling web systems  
+- 💬 **Ask Me About:** Software development, system design and architecture, API design, authentication, testing, and scaling web systems  
 - 🤝 **Open to Collaborations:** Web, backend, and AI/automation projects  
 - ⚡ **Fun Fact:** I started as an actuarial science student — my analytical mindset still shapes how I approach software architecture.  
 
@@ -48,20 +47,6 @@ Beyond coding, I’m committed to mastering **problem-solving** and **system thi
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| **DonateNow Fundraising Platform** | A secure, scalable donation management system built with Next.js and Neon PostgreSQL | Next.js, Node.js, PostgreSQL (Neon), Redis, Qstash, Tailwind CSS |
-| **Pet E-commerce Platform** | A small-business e-commerce site with WhatsApp checkout integration | Next.js, React, Node.js, Tailwind CSS, Neon PostgreSQL |
-| **Dimba Events Platform** | Event discovery and management web app | Next.js, React, Tailwind CSS |
-| **Travel Agency Web App** | Showcases travel locations, hotels, and maps | React, Leaflet.js, Tailwind CSS |
-| **Food Donation App** | A donation API and web interface connecting donors and recipients | Node.js, Express, PostgreSQL |
-
-👉 **[See more on my GitHub →](https://github.com/JojoSaka?tab=repositories)**
 
 ---
 
