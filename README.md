@@ -48,16 +48,6 @@ Beyond coding, I’m committed to mastering **problem-solving** and **system thi
 🏗️ **System Design:** Studying trade-offs behind scalability, latency, availability, and maintainability  
 ⚙️ **DevOps & Cloud:** CI/CD pipelines, Docker, GCP, and deployment automation  
 🎯 **Goal:** Become a highly versatile engineer capable of designing and building large-scale, resilient systems from the ground up  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JojoSaka&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JojoSaka&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
-</p>
-
 ---
 
 ## 📫 Let’s Connect
