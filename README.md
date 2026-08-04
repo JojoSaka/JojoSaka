@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 
 I’m a **Software Engineer from Ghana** passionate about building **scalable, secure, and high-performing applications**.  
-With 3+ years of experience across **Typescript, Next.js, Node.js, Relational and Non-Relational Databases, Java and the Spring Framework, System Design, AWS and GCP cloud platoforms.**.
+With 3+ years of experience across **Typescript, Next.js, Node.js, Relational and Non-Relational Databases, Java and the Spring Framework, System Design, AWS and GCP cloud platforms.**.
 
 Beyond coding, I’m committed to mastering **problem-solving** and **system thinking** — sharpening my analytical and architectural mindset daily.
 .
